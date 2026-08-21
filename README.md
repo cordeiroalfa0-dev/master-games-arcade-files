@@ -9,6 +9,9 @@ Este repositório privado armazena os arquivos fornecidos pelo proprietário por
 | `uRxOkaFswbHrxEHE.zip` | Arquivo ZIP | 136 MB |
 | `oMlPRPsdeTSHzEpi.exe` | Instalador Windows | 106 MB |
 | `wfJaylRrJHZfNFGb.apk` | Pacote Android | 33 MB |
+| `kFGzACEDtkJQNQPS.exe` | Arquivo executável | 151 MB |
+| `EQIatdVNzZhoGGMd.zip` | Arquivo ZIP | 151 MB |
+| `acesso-admin.png` | Imagem de acesso administrativo | 5,8 KB |
 
 Os arquivos com mais de 100 MB são publicados como ativos de uma GitHub Release, pois o GitHub limita arquivos individuais em commits comuns.
 
@@ -19,5 +22,8 @@ Os arquivos com mais de 100 MB são publicados como ativos de uma GitHub Release
 | `oMlPRPsdeTSHzEpi.exe` | `ea42d903ed8b4313d9c62fd9920c20c281293c8c5923cfd5bd87fd9447ca79e8` |
 | `uRxOkaFswbHrxEHE.zip` | `0ca92491d6256e06e55ceaa9567083e54ff106546a983fed1c7c8c50ea0615cb` |
 | `wfJaylRrJHZfNFGb.apk` | `6e0db8e738a7e3fd32bc027c754ba026d3e96c6931434a32dc869cf350a8e8e3` |
+| `kFGzACEDtkJQNQPS.exe` | `f647fd1a9e3178d02da074f9025ac9fe1062e5fa6d2874852035f5525e33ff2a` |
+| `EQIatdVNzZhoGGMd.zip` | `4e28babb7252d7dd71488adf202f37020c5f0c032ba1be41af06167b2f20e1c4` |
+| `acesso-admin.png` | `cc0b71cabf6aa7292fdfb84e7112ea6be1fb2a8e17e09bd36ce5a79885f2a810` |
 
-> Os arquivos não foram executados nem instalados durante o processo de backup.
+> Os arquivos não foram executados nem instalados durante o processo de backup. A imagem de acesso administrativo contém informações sensíveis e deve permanecer restrita aos colaboradores autorizados.
